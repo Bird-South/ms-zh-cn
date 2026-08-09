@@ -1,0 +1,10 @@
+{
+  "id": "com.bird.zh-cn",
+  "name": "简体中文翻译",
+  "version": "1.0.0",
+  "authors": [{ "name": "南小鸟" }],
+  "description": "为Maker Studio添加简体中文支持，另附带PBS编辑器Mod(1.5.0)的汉化",
+  "apiVersion": "1.0.0",
+  "main": "index.js",
+  "tags": ["ui", "translation", "i18n"]
+}
