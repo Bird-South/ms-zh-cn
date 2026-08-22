@@ -1890,7 +1890,7 @@ export const makerStudioDict = {
   "AND": "与",
   "OR": "或",
   "Advanced conditions require the MakerStudio plugin in-game": "高级条件需要游戏中的 MakerStudio 插件",
-  "Block requires the MakerStudio plugin in-game": "阻挡需要游戏中的 MakerStudio 插件",
+  "Block requires the MakerStudio plugin in-game": "功能块需要游戏添加 MakerStudio 插件",
   "{title}: {message}": "{title}：{message}",
 
   "{n} maps have unsaved changes. Save before launching the game?": "有{n}个地图存在未保存的更改，启动游戏前是否保存这些更改？",
