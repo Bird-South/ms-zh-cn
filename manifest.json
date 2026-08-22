@@ -1,9 +1,9 @@
 {
   "id": "com.bird.zh-cn",
   "name": "Simplified Chinese translation",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "authors": [{ "name": "南小鸟" }],
-  "description": "Add Simplified Chinese support for Maker Studio, along with the Chinese localization of the PBS Editor Mod (1.6.0).",
+  "description": "Add Simplified Chinese support for Maker Studio, along with the Chinese localization of the PBS Editor Mod.",
   "apiVersion": "1.0.0",
   "main": "index.js",
   "tags": ["ui", "translation", "i18n"]
