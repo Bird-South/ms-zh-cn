@@ -2043,5 +2043,13 @@ export const makerStudioDict = {
   "Zoom In": "放大",
   "Zoom Out": "缩小",
   "Zoom X": "缩放 X",
-  "Zoom Y": "缩放 Y"
+  "Zoom Y": "缩放 Y",
+
+  //补齐官方未添加的键值对
+  "Next Frame": "下一个帧",
+  "Previous Frame": "上一帧",
+  "Next Horizontal Frame": "下一水平帧",
+  "Previous Horizontal Frame": "上一水平帧",
+  "Next Vertical Frame": "下一垂直帧",
+  "Previous Vertical Frame": "上一垂直帧",
 };
